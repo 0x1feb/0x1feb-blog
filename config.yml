@@ -1,4 +1,4 @@
-baseURL: http://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: https://0x1feb.github.io/
+languageCode: "ja"
+title: "0x1feb"
 theme: "PaperMod"
