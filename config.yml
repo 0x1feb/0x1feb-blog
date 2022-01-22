@@ -118,3 +118,9 @@ permalinks:
     posts: "/:sections/:year/:month/:day/:slug/"
 
 hasCJKLanguage: true
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
